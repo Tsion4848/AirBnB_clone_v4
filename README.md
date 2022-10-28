@@ -154,6 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Tsion Moges - [Github](https://github.com/Tsion4848) / 
-
+Tsion Moges - https://github.com/
+## License
 Public Domain. No copy write protection. 
